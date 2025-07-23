@@ -1,2 +1,7 @@
 hi
+
 hello
+
+rating feature
+
+welcome1
