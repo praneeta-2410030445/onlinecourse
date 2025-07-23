@@ -1,7 +1,12 @@
 hi
 
+
 hello
 
 rating feature
 
 welcome1
+
+duration of the course
+
+welcome2
